@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abbhishek</h1>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">CS Student at VIIT || Quick Learner || Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdeshmukhgit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekdeshmukhgit" /> </p>
